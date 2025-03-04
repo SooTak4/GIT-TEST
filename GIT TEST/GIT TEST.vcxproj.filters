@@ -18,5 +18,8 @@
     <ClCompile Include="GIT TEST1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="프로젝트 내 여러 소스파일 테스트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
