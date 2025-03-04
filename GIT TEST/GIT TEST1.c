@@ -7,5 +7,6 @@
 int main(void)
 {
 	printf("Hello World!\n");
+	printf("Å×½ºÆ®2\n");
 	return 0;
 }
